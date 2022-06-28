@@ -8,3 +8,6 @@
 - Develop the ability to choose the appropriate data structure in order to model and solve real world problems.
 - Acquire knowledge necessary to work with existing data structure/abstract data type libraries.
 - Analyzing the issues around the main topics of graph: connectivity, shortest paths, modeling prerequisites and activity planning, flows, traveling salesman problem, planar graphs.
+
+## Assignments
+- [Assignment1]() - **sorted map** using a **dynamic array**.
