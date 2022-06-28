@@ -10,4 +10,4 @@
 - Analyzing the issues around the main topics of graph: connectivity, shortest paths, modeling prerequisites and activity planning, flows, traveling salesman problem, planar graphs.
 
 ## Assignments
-- [Assignment1]() - **sorted map** using a **dynamic array**.
+- [Assignment1](https://github.com/andrei-dragan/data-structures-and-algorithms-assignment1) - **sorted map** using a **dynamic array**.
