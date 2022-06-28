@@ -1,4 +1,4 @@
-# Data structures and algorithms
+# 🧱 Data structures and algorithms
 
 ## Objectives
 - Study of data structures (arrays, linked lists, heaps, hash tables, binary trees) that can be used to implement abstract data types.
